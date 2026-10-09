@@ -1,6 +1,6 @@
-:HL["/dogma-standards-site/_next/static/chunks/3mx_ux54e2sns.css","style"]
+:HL["/dogma-standards-site/_next/static/chunks/0lhmws0c6ac-1.css","style"]
 :HL["/dogma-standards-site/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dogma-standards-site/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"normative","h":96,"c":"$Q2"}]]
-0:{"b":"ApPL7hyo80iyR63811N7a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"teSv-hxx2lc-mDiVXuJf_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
